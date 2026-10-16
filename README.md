@@ -4,13 +4,6 @@ Prototipo navegable del nuevo sitio institucional del IFTS N.° 2 (D.E. 20) y de
 
 Es solo frontend: HTML, CSS y JavaScript sin frameworks. No tiene backend ni base de datos, así que los formularios y el panel simulan sus respuestas y nada se guarda al recargar la página.
 
-## Cómo verlo
-
-1. Clonar el repositorio.
-2. Abrir la carpeta en VS Code y abrir `index.html` con la extensión Live Server (clic derecho, "Open with Live Server"). También se puede abrir el archivo directamente en el navegador.
-
-No hace falta instalar nada. Para recorrer todas las pantallas está el botón "Pantallas del prototipo", abajo a la derecha.
-
 ## Estructura
 
 ```
